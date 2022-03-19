@@ -31,6 +31,7 @@ body > div > div.android {
 }
 
 .eyes {
+  display: flex;
 }
 
 .head:hover {
