@@ -70,6 +70,7 @@ body > div > div.android {
   height: 200px;
   /* This is another useful property. Hmm what do you think it does?*/
   margin: 0 auto;
+  display: flex;
 }
 
 .left_leg,
